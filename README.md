@@ -9,7 +9,7 @@ of having a random password generator built-in to save the trouble of coming up 
 ![window preview 2](https://user-images.githubusercontent.com/48396333/121823928-ce0f8000-cc7e-11eb-9693-8230a97c197d.png)
 
 
-Tutorials used in this project.
+Tutorials used in this project:
 
 Codemy: 
 Build A Strong Password Generator App - Python Tkinter GUI Tutorial #170 - 
